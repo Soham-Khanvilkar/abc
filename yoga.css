@@ -1,0 +1,178 @@
+*{
+    font-family:'Exo 2', sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+    transform: all .2s linear;
+    box-sizing: border-box;
+    margin: 0; padding: 0;
+
+}
+.yoga-box{
+    margin-left:500px;
+    margin-top:60px;
+    background-color: burlywood;
+    width:30%;
+    height:80%;
+}
+.yoga-box h1{
+    margin-left:500px;
+    padding-top:20px;
+}
+
+.classe1{
+    height: 100vh;
+    background-image:url("");
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+.title p{
+    font-size:15px;
+    padding-top:30px;
+    font-family: latin;
+    color:rgb(255, 0, 0);
+    text-align:center;
+    font-weight:bold;
+    font-style: normal;
+    
+}
+.title label{
+    font-size:20px;
+    padding-top:30px;
+    font-family: latin;
+    color:rgb(255, 0, 0);
+    text-align:center;
+    font-weight:bold;
+    font-style: normal;
+    margin-left: 620px;
+    margin-top:30px;
+}
+.box{
+    display:flex;
+    justify-content: space-between;
+}
+.box1, .box2, .box3, .box4{
+
+    background-color:white;
+    height:300px;
+    width:300px;
+    margin-left:30px;
+    margin-top:20px;
+}
+
+.box1 img{
+    height:400px;
+    width:300px;
+}
+.box1 img:hover{
+    transform: scale();
+    transition: 1s;
+    box-shadow: 5px 10px 20px ;
+
+}
+.box4{
+    margin-right: 30px;
+    box-shadow: 100px;
+    
+}
+.box2 img{
+    height:400px;
+    width:300px;
+}
+.box2 img:hover{
+    transform: scale();
+    transition: 1s;
+    box-shadow: 5px 10px 20px ;
+
+}
+.box3 img{
+    height:400px;
+    width:300px;
+}
+.box3 img:hover{
+    transform: scale();
+    transition: 1s;
+    box-shadow: 5px 10px 20px ;
+
+}
+.box4 img{
+    height:400px;
+    width:300px;
+}
+.box4 img:hover{
+    transform: scale();
+    transition: 1s;
+    box-shadow: 5px 10px 20px ;
+
+}
+.btn1{
+
+    border: 2px solid black;
+    background: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    font-family: montserrat;
+    transition: 1s;
+    position: relative;
+    overflow: hidden;
+    
+}
+.btn1:hover{
+    color:rgb(255, 255, 255);
+    background-color: black;
+}
+.btn2{
+    border: 2px solid black;
+    background: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    font-family: montserrat;
+    transition: 1s;
+    position: relative;
+    overflow: hidden;
+    
+}
+.btn2:hover{
+    color: white;
+    background-color: black;
+}
+.btn3{
+
+    border: 2px solid black;
+    background: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    font-family: montserrat;
+    transition: 1s;
+    position: relative;
+    overflow: hidden;
+    
+}
+.btn3:hover{
+    color:white;
+    background-color: black;
+
+}
+.btn4{
+
+    border: 2px solid black;
+    background: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    font-family: montserrat;
+    transition: 1s;
+    position: relative;
+    overflow: hidden;
+    
+}
+.btn4:hover{
+    color:white;
+    background-color:black;
+}
+.bg1{
+    background-color:black;
+}
