@@ -1,0 +1,57 @@
+ <div class="AS">
+        <h1>Contact Us</h1>
+        <p>We have to help and answer any question you might have.</p>
+    </div>
+    <div class="AA">
+        <div class="contactInfo">
+            <div class="box">
+                <div class="icon"> <i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                <div class="text">
+                    <h2>Address</h2>
+                    <p>RFS,Aarogyamandir,Ratnagiri</p>
+                </div>
+            </div>
+            <div class="box">
+                <div class="icon"><i class="fa fa-phone-square" aria-hidden="true"></i></div>
+                <div class="text">
+                    <h2>Phone</h2>
+                    <p>9834499487</p>
+                </div>
+            </div>
+            <div class="box">
+                <div class="icon"> <i class="fa fa-envelope-o" aria-hidden="true"></i></div>
+                <div class="text">
+                    <h2>Email</h2>
+                    <p>ATS11@gmail.com</p>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+ <div class="contsctFrom">
+            <form>
+                <h3>Send Message</h3>
+                <div class="inputBox">
+                    <input type="text" name="" required="required">
+                    <span>Full Name</span>
+                </div>
+                <div class="inputBox">
+                    <input type="text" name="" required="required">
+                    <span>Email</span>
+                </div>
+                <div class="inputBox">
+                    <textarea required="required"></textarea>
+                    <span>Type Your Message..</span>
+                </div>
+                <div class="inputBox">
+                    <input type="submit" name="" value="Send">
+            </form>
+        </div>
+    </div>
